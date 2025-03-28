@@ -1,2 +1,3 @@
-# AI Article Analyzer
+# AI-Powered Financial Research Assistant
+
  
